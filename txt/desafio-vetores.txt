@@ -1,0 +1,13 @@
+> APRENDER GDB/ DEPURAÇÃO URGENTEMENTE
+> APRENDER PONTEIROS URGENTEMENTE
+
+Desafio - Vetores e Análises de números
+
+1 - Pergunte ao usuário quantos números ele deseja inserir [x]
+2 - Leia todos os números e armazene em um vetor [x]
+3 - Ao final, o programa deve exibir:
+
+A) A soma dos números pares [x]
+B) A quantidade de números repetidos [x]
+C) A quantidade de repetições de cada número cadastrado [x]
+D) O vetor com os números sem repetições (exibido em ordem de entrada) [x]

@@ -1,0 +1,68 @@
+1. Manipulação de números e operadores
+
+Exercícios que testam:
+    Operadores matemáticos (+, -, *, /, %)
+    Uso de variáveis e entrada de dados
+
+Desafios:
+    1 - Calculadora simples (com 4 operações) [X]
+    2 - Verificar se um número é par ou ímpar [X]
+    3 - Dado um número de 3 dígitos, separar centena, dezena e unidade [X]
+======================================================================================================= 
+2. Uso de estruturas de repetição (laços)
+
+Exercícios que testam:
+    for, while, do while
+    Controle de loops com condições
+
+Desafios:
+    4 - Contar de 1 a N [X]
+    5 - Mostrar a tabuada de um número [X]
+    6 - Calcular o fatorial de um número [X]
+    7 - Listar todos os números primos até N [X]
+    8 - Imprimir sequência de Fibonacci até N [X]
+=======================================================================================================
+3. Controle de fluxo (condicionais) 
+
+Exercícios que testam:
+    if, else, else if
+    Operadores relacionais e lógicos
+
+Desafios:
+    9 - Classificar idade: criança, adolescente, adulto, idoso [X]
+    10 - Calcular média de um aluno e dizer se está aprovado [X]
+    11 - Simular um caixa eletrônico (apenas com cédulas) [X]
+    12 - Simular um caixa eletrônico (com cédulas e moedas) [X]
+    XX - Desafio do cash.c do CS50 [X]
+    XX - Corrigir meu código antigo do mesmo desafio! [X]
+=======================================================================================================
+4. Problemas com lógica combinada
+
+Exercícios que testam:
+    Lógica encadeada
+    Múltiplos conceitos juntos
+
+Desafios:
+    13 - Jogo de adivinhação (com número secreto e tentativas limitadas) [X]
+    14 - Conversor de moedas com menu de opções [X]
+    15 - Simulação de login com 3 tentativas [X]
+=======================================================================================================
+5. Uso básico de vetores
+
+Desafios:
+    16 - Armazenar 5 notas e calcular a média [X]
+    17 - Encontrar o maior e o menor número em um vetor [X]
+    18 - Desafio - Vetores e Análise de Números [X] // APRENDER BUBBLE SORT E REFAZER
+    19 - Contar quantos números pares existem em um vetor [X]
+=======================================================================================================
+6. Mini-projeto de validação
+
+Para consolidar: fazer um projeto simples integrando tudo.
+
+    20 - Calculadora de Notas [X]
+
+    > Recebe N notas
+    > Calcula média
+    > Classifica aluno (aprovado, em recuperação, reprovado)
+    > Permite rodar o programa novamente
+=======================================================================================================
