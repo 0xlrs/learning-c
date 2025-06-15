@@ -51,9 +51,7 @@ void calculate_averages(int students)
 				}
 
 				else if (all_notes[i][j] < 0 || all_notes[i][j] > 10)
-				{
 					puts("\n[ERRO] Intervalo de notas aceito é entre 0 e 10...");
-				}
 
 			} while (valid_input != 1 || all_notes[i][j] < 0 || all_notes[i][j] > 10);
 
@@ -87,5 +85,4 @@ void calculate_averages(int students)
 	
 	// ENVIANDO OS DADOS PARA A FUNÇÃO CLASSIFY_STUDENTS
 	classify_students(students, students_average, general_average, highest_average, lowest_average);
-
 }
